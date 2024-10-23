@@ -29,6 +29,7 @@ The solution also uses the Document Extraction AI Builder model to extract relev
 Automatically pulls out key details from uploaded documents for further analysis and storage in Dataverse.
 
 **POC Purpose**
+
 This solution is meant to serve as a Proof of Concept (POC) to demonstrate the potential of Generative AI in streamlining and enhancing the talent acquisition process. While it currently uses Dataverse as the primary data source, it can be easily customized to work with any other data source supported by Power Platform, such as SQL Server, SharePoint, or external APIs.
 
 **Technology Stack**
