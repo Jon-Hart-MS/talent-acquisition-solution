@@ -63,7 +63,7 @@ Access to the Document Extraction AI Builder Model and AI Builder Prompt functio
 **Clone the Repository**
 Clone this repository to your local environment:
 
-git clone https://github.com/jonhart_microsoft/talent-acquisition-solution.git
+git clone https://github.com/Jon-Hart-MS/talent-acquisition-solution.git
 
 Import Power Platform Solution
 
